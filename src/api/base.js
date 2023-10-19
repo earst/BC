@@ -7,4 +7,5 @@ const base={
     product:'/foo/home/product', //首页-产品区块
 }
 
+
 export default base;
